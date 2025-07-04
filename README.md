@@ -1,1 +1,1 @@
-# Importing-Securing-Data-In-ServiceNow.
+# Importing-Securing-Data-In-ServiceNow
